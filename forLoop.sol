@@ -15,6 +15,38 @@ contract Loop {
         }
 
         return data;
+    } 
+
+    // while loop - condetion 
+
+    function whileLoop() public returns (uint[] memory) {
+
+        uint j =0;
+
+        while (j<20){
+            // code execute
+            // j++;
+            data.push(j);
+            j++;
+        }
+
+        return data;
     }
+    
+
+    // do while loop
    
+   function doWhileLoop() public returns(uint[] memory) {
+
+       uint k=1;
+       do {
+           // execute code
+            data.push(k);
+            k++;
+       }while (k<5);
+
+       return data;
+   } 
+
+
 }
