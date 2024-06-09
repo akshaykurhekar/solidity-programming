@@ -3,7 +3,7 @@ Solidity programming course by Akshay Kurhekar on youtube, all code is attached.
 
 ## Key Note 
 
-Vido playlist explanation of a code: https://youtu.be/gem4MNqgyMg?si=ItfLKsntou4P88jA
+Video playlist explanation of solidity code: https://youtu.be/gem4MNqgyMg?si=ItfLKsntou4P88jA
 
 ## code execution
 
